@@ -16,7 +16,7 @@ func TestTetAPIKey(t *testing.T) {
 	key, err := GetAPIKey(headers)
 	require.NoError(t, err)
 	require.NotNil(t, key)
-	assert.Equal(t, "1234", key)
+	assert.Equal(t, "12345", key)
 
 	// Test: No Authorization Header
 	headers = http.Header{}
