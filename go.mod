@@ -3,7 +3,6 @@ module github.com/jncogs/bootdev_notely
 go 1.26.0
 
 require (
-	github.com/bootdotdev/learn-cicd-starter v0.0.0-20260812133530-dc6b03e4f48f
 	github.com/go-chi/chi v1.5.5
 	github.com/go-chi/cors v1.2.2
 	github.com/google/uuid v1.6.0

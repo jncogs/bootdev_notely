@@ -1,7 +1,5 @@
 github.com/antlr4-go/antlr/v4 v4.13.1 h1:SqQKkuVZ+zWkMMNkjy5FZe5mr5WURWnlpmOuzYWrPrQ=
 github.com/antlr4-go/antlr/v4 v4.13.1/go.mod h1:GKmUxMtwp6ZgGwZSva4eWPC5mS6vUAmOABFgjdkM7Nw=
-github.com/bootdotdev/learn-cicd-starter v0.0.0-20260812133530-dc6b03e4f48f h1:fn8JuBSHgif3XagVDInoiqhbaFffcWu3vAZTdlurjbY=
-github.com/bootdotdev/learn-cicd-starter v0.0.0-20260812133530-dc6b03e4f48f/go.mod h1:EezqhfJ7H5IfNp4O7Tm0D8kBzmJLv+1wcx7iHXobn3w=
 github.com/coder/websocket v1.8.15 h1:6B2JPeOGlpff2Uz6vOEH1Vzpi0iUz20A+lPVhPHtNUA=
 github.com/coder/websocket v1.8.15/go.mod h1:NX3SzP+inril6yawo5CQXx8+fk145lPDC6pumgx0mVg=
 github.com/go-chi/chi v1.5.5 h1:vOB/HbEMt9QqBqErz07QehcOKHaWFtuj87tTDVz2qXE=
